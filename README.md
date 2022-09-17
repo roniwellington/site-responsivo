@@ -1,2 +1,2 @@
-# site-responsivo
-site do curso alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
